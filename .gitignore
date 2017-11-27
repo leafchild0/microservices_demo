@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+target/
+dependency-reduced-pom.xml
+
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+.idea
+*.iml
